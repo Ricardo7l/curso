@@ -1,4 +1,4 @@
-# Strogonoff de Franfo :chicken
+# Strogonoff de Frango :chicken
 
 ### Ingredientes
  - 1 kg de frango sem pele
@@ -9,4 +9,4 @@
 ### Modo de Preparo
 1. Acresecente o óleo e o caldo de galinha numa panela
 2. Coloque o frango na panela
-2. Cozinhe até ferver
+3. Deixe no fogo até ganhar consistência
