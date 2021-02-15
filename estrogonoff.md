@@ -8,5 +8,5 @@
 
 ### Modo de Preparo
 1. Acresecente o óleo e o caldo de galinha numa panela
-2. Coloque o frango
+2. Coloque o frango na panela
 2. Conzinhe até ferver
