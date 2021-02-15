@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken
+# Strogonoff de Frango :chicken:
 
 ### Ingredientes
  - 1 kg de frango sem pele
